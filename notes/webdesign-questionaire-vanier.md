@@ -128,5 +128,6 @@ Type of project :
 18. (For WordPress sites only) - How often will you update the website? Daily / Weekly / Monthly / Quarterly
 
 - Who will be in charge of the updates?
-  19.Will you need maintenance services? _WordPress backups, updates, etc._ Yes / No
-  Other suggestions or questions :
+
+19. Will you need maintenance services? _WordPress backups, updates, etc._ Yes / No
+20. Other suggestions or questions :
