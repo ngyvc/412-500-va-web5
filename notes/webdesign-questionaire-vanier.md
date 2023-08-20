@@ -28,16 +28,22 @@ Desired publication date:
 
 ## 5. Appearance of the website
 
-- Do do have color preferences? What are your favorite colors? Yes / No
+- Do do have color preferences? What are your favorite colors?
+  - Yes / No
 - What atmosphere would you like to create?
 - What type of images/pictures ?
-- Do you already have ideas? Layouts that you like? Fonts? Yes / No
+- Do you already have ideas? Layouts that you like? Fonts?
+  - Yes / No
 
-## 6. Do you have a visual identity? Yes / No
+## 6. Do you have a visual identity?
+
+    - Yes / No
 
 - If yes :
-  - Logo : Yes / No
-  - Photos or images : Yes / No
+  - Logo :
+    - Yes / No
+  - Photos or images :
+    - Yes / No
 - What are the colors that reflect the most your business?
 - Define your general expectations :
   - 1
@@ -65,20 +71,31 @@ Desired publication date:
   - Number of images/photos per page : 0 to 5 / 6 to 10 / 10 to 20 / more than 20
 - How do you imagine your site's layout?
   - Navigation : Horizontal / Vertical
-  - One-Pager : Yes / No / I don't know
+  - One-Pager :
+    - Yes / No / I don't know
 
 ## 9. Website functionalities
 
-- A blog : Yes / No
-- A search engine : Yes / No
-- A calendar : Yes / No
-- Social media links: Yes / No
-- Newsletter subscription: Yes / No
-- A Google map: Yes / No
-- A photo gallery : Yes / No
-- A video gallery : Yes / No
-- A private page : Yes / No
-- Multilingual (EN-FR) : Yes / No
+- A blog :
+  - Yes / No
+- A search engine :
+  - Yes / No
+- A calendar :
+  - Yes / No
+- Social media links:
+  - Yes / No
+- Newsletter subscription:
+  - Yes / No
+- A Google map:
+  - Yes / No
+- A photo gallery :
+  - Yes / No
+- A video gallery :
+  - Yes / No
+- A private page :
+  - Yes / No
+- Multilingual (EN-FR) :
+  - Yes / No
 - Other functionalities :
 
 ## 10. Name three (3) websites that you really like
@@ -94,16 +111,21 @@ Desired publication date:
 - Name:
 - Contact :
 - Or
-  - Need hosting ? Yes / No
+  - Need hosting ?
+    - Yes / No
   - What type of hosting? Shared / Dedicated / I don't know
 
 ## 13. Are there any other services that you may need?
 
 - Logo / Business card / Letterhead / Brochure / Online advertising _Google Ads, Facebook, etc._
 
-## 14. Do you know how to use WordPress? Yes / No / A little bit
+## 14. Do you know how to use WordPress?
 
-## 15. Do you have social media accounts? Yes / No
+    - Yes / No / A little bit
+
+## 15. Do you have social media accounts?
+
+    - Yes / No
 
 - If yes _Provide urls (e.g. hEp://www.lesite.com)_
   - Facebook :
@@ -129,12 +151,16 @@ Desired publication date:
 - Hours:
 - Other:
 
-## 17. Do you have a privacy policy : Yes / No
+## 17. Do you have a privacy policy :
+
+    - Yes / No
 
 ## 18. (For WordPress sites only) - How often will you update the website? Daily / Weekly / Monthly / Quarterly
 
 - Who will be in charge of the updates?
 
-## 19. Will you need maintenance services? _WordPress backups, updates, etc._ Yes / No
+## 19. Will you need maintenance services? _WordPress backups, updates, etc._
+
+    - Yes / No
 
 ## 20. Other suggestions or questions
