@@ -13,7 +13,7 @@ Type of project :
 - New website
 - Redesign
 
-1. What is your idea? What is the concept?
+## 1. What is your idea? What is the concept?
 
 - Corporate
 - Portfolio
@@ -21,17 +21,20 @@ Type of project :
 - Creative
 - Other
 
-2. What is the main objective of your website ?
-3. What is the target audience ? _( Age, gender, location, job, etc.)_
-4. Who is your typical client ?
-5. Appearance of the website:
+## 2. What is the main objective of your website ?
+
+## 3. What is the target audience ? _( Age, gender, location, job, etc.)_
+
+## 4. Who is your typical client ?
+
+## 5. Appearance of the website:
 
 - Do do have color preferences? What are your favorite colors? Yes / No
 - What atmosphere would you like to create?
 - What type of images/pictures ?
 - Do you already have ideas? Layouts that you like? Fonts? Yes / No
 
-6. Do you have a visual identity? Yes / No
+## 6. Do you have a visual identity? Yes / No
 
 - If yes :
   - Logo : Yes / No
@@ -42,8 +45,9 @@ Type of project :
   - 2
   - 3
 
-7. How do you imagine the homepage ?
-8. Define the elements that you would like to have on your website :
+## 7. How do you imagine the homepage ?
+
+## 8. Define the elements that you would like to have on your website :
 
 - I want to focus on :
   - Text
@@ -64,7 +68,7 @@ Type of project :
   - Navigation : Horizontal / Vertical
   - One-Pager : Yes / No / I don't know
 
-9. Website functionalities
+## 9. Website functionalities
 
 - A blog : Yes / No
 - A search engine : Yes / No
@@ -78,14 +82,15 @@ Type of project :
 - Multilingual (EN-FR) : Yes / No
 - Other functionalities :
 
-10. Name three (3) websites that you really like:
+## 10. Name three (3) websites that you really like:
 
 - 1
 - 2
 - 3
 
-11. What is your domain name?
-12. Your hosting account
+## 11. What is your domain name?
+
+## 12. Your hosting account
 
 - Name:
 - Contact :
@@ -93,12 +98,13 @@ Type of project :
   - Need hosting ? Yes / No
   - What type of hosting? Shared / Dedicated / I don't know
 
-13. Are there any other services that you may need?
+## 13. Are there any other services that you may need?
 
 - Logo / Business card / Letterhead / Brochure / Online advertising _Google Ads, Facebook, etc._
 
-14. Do you know how to use WordPress? Yes / No / A little bit
-15. Do you have social media accounts? Yes / No
+## 14. Do you know how to use WordPress? Yes / No / A little bit
+
+## 15. Do you have social media accounts? Yes / No
 
 - If yes _Provide urls (e.g. hEp://www.lesite.com)_
   - Facebook :
@@ -111,7 +117,7 @@ Type of project :
 - If no _select the social media account that you would like to create_
   - Facebook / Twitter / Lindekin / Google+ / Pinterest / Youtube / Others
 
-16. Contact information appearing on website
+## 16. Contact information appearing on website
 
 - First name:
 - Last name:
@@ -124,10 +130,12 @@ Type of project :
 - Hours:
 - Other:
 
-17. Do you have a privacy policy : Yes / No
-18. (For WordPress sites only) - How often will you update the website? Daily / Weekly / Monthly / Quarterly
+## 17. Do you have a privacy policy : Yes / No
+
+## 18. (For WordPress sites only) - How often will you update the website? Daily / Weekly / Monthly / Quarterly
 
 - Who will be in charge of the updates?
 
-19. Will you need maintenance services? _WordPress backups, updates, etc._ Yes / No
-20. Other suggestions or questions :
+## 19. Will you need maintenance services? _WordPress backups, updates, etc._ Yes / No
+
+## 20. Other suggestions or questions
