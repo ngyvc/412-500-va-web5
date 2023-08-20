@@ -2,22 +2,21 @@
 
 ## IMPORTANT DATES / DEADLINES
 
-- First week prep Aug 23/25
-- 3 Projects Material Aug 30/ Sept 1
-- Social Media Posts Sept 6/ Sept 8
-- Templates Sept 13/15
-- Find Client Sept 20/22
-- Wireframe & Mood board Sept 27/29
-- Client Template Oct 4/6
-- Client Wireframe & Mood board Oct 13/18
-- Database Planning & Integration Oct 20/25
-- Client Feedback Oct 27 / Nov 1
-- Database Planning & Integration –
-- Nov 3/8
-- Case Study Nov 10/15
-- Case Study Final Nov 17/22
-- Social Media Presentations Nov 24/29
-- Final Presentations Dec 1/6
+- First week prep ***Aug 23/25***
+- 3 Projects Material ***Aug 30/ Sept 1***
+- Social Media Posts ***Sept 6/ Sept 8***
+- Templates ***Sept 13/15***
+- Find Client ***Sept 20/22***
+- Wireframe & Mood board ***Sept 27/29***
+- Client Template ***Oct 4/6***
+- Client Wireframe & Mood board ***Oct 13/18***
+- Database Planning & Integration ***Oct 20/25***
+- Client Feedback ***Oct 27 / Nov 1***
+- Database Planning & Integration ***Nov 3/8***
+- Case Study ***Nov 10/15***
+- Case Study Final ***Nov 17/22***
+- Social Media Presentations ***Nov 24/29***
+- Final Presentations ***Dec 1/6***
 
 ## Assignments
 
