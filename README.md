@@ -79,4 +79,4 @@ Your case studies should including the following:
   - infographics?
   - animations (screen captures?)
   - videos?
-  - elements of case study
+  - [elements of case study](notes/elements-of-a-case-study.MD)
