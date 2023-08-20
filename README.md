@@ -51,3 +51,32 @@ Demo Section 2
 ### Week 3 - Clients
 
 We will look at how to find clients, what to ask, how to ask it and practice structuring html with your portfolio template.
+
+## case study
+
+Case studies are an excellent tool for designers to show the depth of engagement in the design process, and for potential employers / universities to better appreciate the thinking that has gone into a design.
+
+Here is a short example from Mihaela: [CSU child logo](http://www.emiha.com/csu-childrenLogo.html)
+
+And here are some excellent resources on case studies:
+
+[case study club](https://www.casestudy.club/journal/ux-designer-portfolio)
+[from Semplice](https://www.semplice.com/how-to-write-case-studies-for-your-portfolio)
+[CreativeBloq examples](https://www.creativebloq.com/advice/write-engaging-case-studies-for-your-portfolio)
+[DesignerUp](https://designerup.co/blog/10-exceptional-product-design-portfolios-with-case-study-breakdowns/)
+[Fantasy.co](https://fantasy.co/)
+
+### Case Study evaluation
+
+Your case studies should including the following:
+
+project title
+intro (design problem, project goal, challenges)
+process (how you overcame the challenges ...or not)
+outcome (client benefits & feedback)
+images with captions?
+plus:
+infographics?
+animations (screen captures?)
+videos?
+elements of case study
