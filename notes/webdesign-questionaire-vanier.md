@@ -3,12 +3,11 @@
 In order to create a successful project and to better understand what are your needs, we kindly ask you to complete this
 questionnaire thorougly.
 
-Questions? Contact me! John Smith 514.555.5555 - john@email.com
-mywebsite.com
+Questions? Contact me! John Smith 514.555.5555 - [john@email.com] mywebsite.com
 
 Desired publication date:
 
-Type of project :
+## Type of project
 
 - New website
 - Redesign
@@ -27,7 +26,7 @@ Type of project :
 
 ## 4. Who is your typical client ?
 
-## 5. Appearance of the website:
+## 5. Appearance of the website
 
 - Do do have color preferences? What are your favorite colors? Yes / No
 - What atmosphere would you like to create?
@@ -47,7 +46,7 @@ Type of project :
 
 ## 7. How do you imagine the homepage ?
 
-## 8. Define the elements that you would like to have on your website :
+## 8. Define the elements that you would like to have on your website
 
 - I want to focus on :
   - Text
@@ -82,7 +81,7 @@ Type of project :
 - Multilingual (EN-FR) : Yes / No
 - Other functionalities :
 
-## 10. Name three (3) websites that you really like:
+## 10. Name three (3) websites that you really like
 
 - 1
 - 2
