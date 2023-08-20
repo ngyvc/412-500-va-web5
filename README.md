@@ -10,3 +10,22 @@ Remember, most important thing is to be creative about your presentation!
 
 ### Week 2 - Portfolio template structure and ideas
 For next week, bring ideas for your portfolio template: how do you want one of your portfolio template pages to look? Bring material and ideas for structuring a template in class.
+
+## In class Demo
+
+### Week 1 - Anatomy of a website
+We will break down different parts of a website and this is our workflow this semester:
+
+Requirements
+Structure
+
+### Week 2 - Structuring a page
+
+We will look at how to break down requirements and structure a page by proper semantic tags and also responsive styling by thinking mobile first.
+
+Demo Section 1
+Demo Section 2
+
+### Week 3 - Clients
+
+We will look at how to find clients, what to ask, how to ask it and practice structuring html with your portfolio template.
