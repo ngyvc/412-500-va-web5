@@ -11,7 +11,7 @@ professional.
 
 ## Begin with a greeting
 
-Always open your email with a greeting, such as “Dear Rebecca” . If your relationship with the reader is formal, use their family name (eg. “Dear Mrs. Price” ). If the relationship is more casual, you can simply say, “Hi Jordan” . If you don’t know the name of the person you are writing to, use: “To whom it may concern” or “Dear Sir/Madam” .
+Always open your email with a greeting, such as “**_Dear Rebecca_**” . If your relationship with the reader is formal, use their family name (eg. “**_Dear Mrs. Price_**” ). If the relationship is more casual, you can simply say, “**_Hi Jordan_**” . If you don’t know the name of the person you are writing to, use: “**_To whom it may concern_**” or “**_Dear Sir/Madam_**”.
 
 ## Thank the recipient
 
