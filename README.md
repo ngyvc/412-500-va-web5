@@ -18,12 +18,12 @@
 - Social Media Presentations - **_Nov 24/29_**
 - Final Presentations - **_Dec 1/6_**
 
-## Client documents
+## Important documents / Client notes
 
+- [Manage a web project](notes/manage-a-web-project.md)
 - [Find a client - Tips](notes/find-potential-clients.md)
 - [Write a formal email](notes/how-to-write-a-formal-email.md)
 - [Questionnaire](notes/webdesign-questionaire.md)
-- [Manage a web project](notes/manage-a-web-project.md)
 
 ## Assignments
 
