@@ -59,7 +59,7 @@ Demo Section 2
 
 We will look at how to find clients, what to ask, how to ask it and practice structuring html with your portfolio template.
 
-## case study
+## Case Study
 
 Case studies are an excellent tool for designers to show the depth of engagement in the design process, and for potential employers / universities to better appreciate the thinking that has gone into a design.
 
