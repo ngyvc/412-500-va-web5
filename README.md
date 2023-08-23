@@ -41,7 +41,9 @@
 ## Client Project
 
 > [!IMPORTANT]
-> Make sure you try finding a client from day 1. Do not wait till the last minute, the more you wait, the harder it will make your project.
+> Make sure you try finding a client from day 1.
+> Do not wait till the last minute!
+> The longer you wait, the harder it will to find a suitable client.
 
 ## Case Study
 
