@@ -18,13 +18,6 @@
 - Social Media Presentations - **_Nov 24/29_**
 - Final Presentations - **_Dec 1/6_**
 
-## Important documents / Client notes
-
-- [Manage a web project](notes/manage-a-web-project.md)
-- [Find a client - Tips](notes/find-potential-clients.md)
-- [Write a formal email](notes/how-to-write-a-formal-email.md)
-- [Questionnaire](notes/webdesign-questionaire.md)
-
 ## Projects Breakdowns
 
 - Project 1 - Social Media
@@ -41,7 +34,14 @@
 ## Client Project
 
 > [!IMPORTANT]
-> Make sure you find a client **_as soon as possible_**
+> Make sure you find a client **_as soon as possible_**.
+
+### Important documents / Client notes
+
+- [Manage a web project](notes/manage-a-web-project.md)
+- [Find a client - Tips](notes/find-potential-clients.md)
+- [Write a formal email](notes/how-to-write-a-formal-email.md)
+- [Questionnaire](notes/webdesign-questionaire.md)
 
 ## Case Study
 
