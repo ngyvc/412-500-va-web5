@@ -108,13 +108,15 @@ You will create:
 
 ## Assignments
 
-<!-- ### Week 1 - Gather and prepare materials for showcase
+### Week 1 - Gather and prepare materials for showcase
 
 For the first assignment, look through your projects and find **three** projects that you are proud to promote. Prepare materials from those projects including any preparation materials like sketches, wireframes, drafts, etc (anything related to the project that can add value). Write a brief description to the projects for presentation in class.
 
 ### Week 1 - Find a client
 
 Start looking for a client for the client project.
+
+<!-- 
 
 ### Week 2- Introduction page & Social Media Posts
 
