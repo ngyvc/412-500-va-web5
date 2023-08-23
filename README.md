@@ -25,8 +25,27 @@
 - [Write a formal email](notes/how-to-write-a-formal-email.md)
 - [Questionnaire](notes/webdesign-questionaire.md)
 
-<!-- ## Case Study
+## Projects Breakdowns
 
+- Project 1 - Social Media
+  > Week 1-15
+- Project 2 - Personal Web Portfolio
+  > Week 2-12
+- Project 3 - Client Web Project
+  > Week 3-13
+- Project 4 - Case Study
+  > Week 12-15
+
+## Portfolio Project
+
+## Client Project
+
+> [!IMPORTANT]
+> Make sure you try finding a client from day 1.
+
+## Case Study
+
+<!--
 Case studies are an excellent tool for designers to show the depth of engagement in the design process, and for potential employers / universities to better appreciate the thinking that has gone into a design.
 
 Here is a short example from Mihaela: [CSU child logo](http://www.emiha.com/csu-childrenLogo.html)
@@ -52,7 +71,36 @@ Your case studies should including the following:
   - infographics?
   - animations (screen captures?)
   - videos?
-  - [elements of case study](notes/elements-of-a-case-study.MD) -->
+
+[elements of case study](notes/elements-of-a-case-study.MD)
+
+You will create:
+
+- a web case study You can choose from:
+  - a web project you have already completed
+  - the client web project from web 5
+  - a new web project or something done outside of class
+
+### Web case study suggested process
+
+- select project, brainstorm all ideas / thoughts / feelings & info
+- define your narrative, choose a an image (or 2) and write a sentence for the:
+  - beginning (problem or challenge)
+  - middle (process or how you solved the problem)
+  - denouement (or the ultimate outcome, ideally with data or feedback)
+- publish your case study to get feedback
+- make improvements based on feedback
+
+[MAD for Circula](https://www.mad.ac/work/circula/)
+[Snooze by Buzzworthy](http://buzzworthystudio.com/project-snooze)
+[Scitech by Humaan](https://humaan.com/case-study/scitech/)
+
+### some selected case studies
+
+[Dapo Oni](https://dapo.ooo/Lucid-Dreaming-Study)
+[full analysis](https://medium.com/@dapooni/lucid-dreaming-connections-to-mindfulness-creativity-1914e939a682)
+[Cody Reppert](https://www.codyreppert.com/seedly)
+[Bettina Chou](https://bettinachou.com/) -->
 
 ## Assignments
 
@@ -70,7 +118,7 @@ For next week, you will create a simple (single) landing page as an introduction
 
 Do not overcomplicate things for your landing page. Keep it simple and responsive (mobile first). For the social media posts, you should gather some material and / or screenshots (You will need them for your personal portfolio later in the semester). Keep your resources as high resolution as possible, we will revisit resizing for web again later.
 
-Remember, most important thing is to be creative about your presentation!
+**Remember, most important thing is to be creative about your presentation!**
 
 ### Week 3 - Portfolio template structure and ideas
 
@@ -82,20 +130,16 @@ For next week, bring ideas for your portfolio template: how do you want one of y
 
 We will break down different parts of a website and this is our workflow this semester:
 
-Requirements
-Structure
+- Requirements
+- Structure
 
 ### Week 2 - Structuring a page
 
 We will look at how to break down requirements and structure a page by proper semantic tags and also responsive styling by thinking mobile first.
 
-Demo Section 1
-Demo Section 2
+- Demo Section 1
+- Demo Section 2
 
 ### Week 3 - Clients
 
-We will look at how to find clients, what to ask, how to ask it and practice structuring html with your portfolio template.
-
-## Portfolio Project
-
-## CLient Project -->
+We will look at how to find clients, what to ask, how to ask it and practice structuring html with your portfolio template. -->
