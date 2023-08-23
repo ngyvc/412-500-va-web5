@@ -1,5 +1,9 @@
 # Setup Information
 
+## VS Code Portable
+
+[VS Code in portable mode](https://code.visualstudio.com/docs/editor/portable)
+
 ## VS CODE PLUGINS
 
 - [SFTP (NEW & WORKING!)](https://marketplace.visualstudio.com/items?itemName=Natizyskunk.sftp)
@@ -25,6 +29,8 @@ To turn on the native bracket pair colorizer and linked editing.
 6. **Click the checkbox** to turn on the linked editing Bracket Pair Setting
 
 ## Micromedia SFTP Setup Info
+
+New access point to plesk: [Plesk Login](https://micromediaweb.com:8443/)
 
 ```js
 {
