@@ -29,6 +29,10 @@
 - Project 4 - Case Study
   > Week 12-15
 
+## Setup Info
+
+[View plugins and server setup info here](notes/micromedia-server-setup.md)
+
 ## Portfolio Project
 
 ## Client Project
