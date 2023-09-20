@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:wght@400;700&display=swap');
+
+
+body {
+    margin: 0;
+    font-family: 'Vollkorn', serif;
+}
+
+body > * {
+    padding: 2rem;
+}
+
+p {
+    max-width: 30rem;
+}
+
+img {
+    max-width: 320px;
+}
+
+a {
+    color: slategray;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: slategray;
+    color: aquamarine;
+    border-radius: 1rem;
+}
+
+header {
+    display: grid;
+    justify-items: center;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+}
+
+header nav ul li a {
+    display: block;
+    padding: 1rem 10rem;
+}
+
+main {
+    background-color: aquamarine;
+}
+
+main h2 {
+    margin-top: 2.5rem;
+    text-decoration: underline;
+}
+
+main img {
+    padding: 1rem 0;
+    border-radius: 3rem;
+    /* border-radius: 50%; */
+}
+
+main ul {
+    list-style: none;
+    padding: 0;
+}
+
+main ul li {
+    display: inline-block;
+    /* display: block; */
+    padding: 0.25rem 0.5rem;
+    background-color: white;
+    margin: 0.2rem;
+    border-radius: 0.5rem;
+    /* max-width: 8rem; */
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer ul li {
+    margin: 0.2rem 0;
+}
+
+@media screen and (min-width: 768px) {
+    body > * {
+        padding: 2rem 20vw;
+    }
+    header {
+        grid-template-columns: auto 1fr;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    body > * {
+        padding: 2rem 25vw;
+    }
+    header nav ul {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    header nav ul li a {
+        padding: 1rem 3rem;
+    }
+}
