@@ -1,0 +1,101 @@
+:root {
+    --primary-color: #007bff;
+    --secondary-color: #5f9ea0;
+}
+
+h1 {
+    color: white;
+    background-color: var(--primary-color);
+}
+
+img {
+    max-width: 100%;
+}
+
+/* .masonary {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 1em;
+} */
+
+/* .masonary {
+    margin: 0 10vw;
+    column-count: 1;
+    column-gap: 1em;
+}
+
+@media (min-width: 576px) {
+    .masonary {
+        column-count: 2;
+    }
+}
+
+@media (min-width: 768px) {
+    .masonary {
+        column-count: 3;
+    }
+}
+
+@media (min-width: 992px) {
+    .masonary {
+        column-count: 4;
+    }
+} */
+
+/* .masonary img {
+    width: 100%;
+    margin-bottom: 10px;
+} */
+
+.projects {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10em;
+    justify-items: center;
+}
+
+.project.description p {
+    max-width: 35rem;
+}
+
+/* .project {
+    border: 1px solid #ccc;
+}
+.projects article:nth-child(2) {
+    background-color: red;
+    align-self: center;
+    justify-self: center;
+} */
+
+.projects article:nth-child(odd) {
+    justify-self: end;
+}
+
+.projects article:nth-child(even) {
+    justify-self: start;
+}
+
+.projects article:nth-child(3),
+.projects article:nth-child(4) {
+    grid-column: 1/ span 2;
+    justify-self: center;
+}
+
+.projects article {
+    display: grid;
+    grid-template-rows: auto 1fr;
+}
+
+.projects article .project.description {
+    order: 2;
+    align-self: start;
+}
+
+.masonary {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
+
+.masonary img {
+    width: 100%;
+}
