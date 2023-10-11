@@ -11,3 +11,5 @@ Upcoming:
 [Flickity](https://flickity.metafizzy.co/)
 
 [simplePARALLAX](https://simpleparallax.com/)
+
+[chatgpt parallax suggetion, curtesy of tlebel](https://chat.openai.com/share/b7705ad1-59f5-4793-9b89-0807b238af72?fbclid=IwAR1Urrr2pHppoxVy9Gvd-h-LUiKUf3JZMfe1sEQdEIPckXKhuQWCOoCUyRE)
