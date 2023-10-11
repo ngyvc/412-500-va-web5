@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        @media print,
+        screen and (min-width: 64em) {
+            .header {
+                -webkit-box-pack: justify;
+                -ms-flex-pack: justify;
+                justify-content: space-between;
+                padding: 16px 32px 0;
+                background-color: #000;
+                height: 100vh;
+            }
+        }
+
+        @media print,
+        screen and (min-width: 64em) {
+            .header__brand {
+                -webkit-box-orient: horizontal;
+                -webkit-box-direction: normal;
+                -ms-flex-direction: row;
+                flex-direction: row;
+            }
+        }
+
+        .header__logo {
+            position: relative;
+        }
+
+        @media print,
+        screen and (min-width: 64em) {
+            .header__logo {
+                width: 192px;
+                height: 203px;
+                margin: 0 32px 0 0;
+            }
+        }
+
+        .header__logo svg {
+            max-width: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+
+        .header__logo svg.logo-dark path {
+            fill: #50a7c2;
+            opacity: .6;
+        }
+
+        .header__logo svg.logo-light path {
+            fill: #90f3c7;
+            opacity: .5;
+        }
+    </style>
+</head>
+
+<body>
+    <header class="header">
+        <div class="header__container">
+            <div class="header__brand">
+                <div class="header__logo"><svg class="logo-dark" xmlns="http://www.w3.org/2000/svg"
+                        viewBox="0 0 296 321" style="transform: translate3d(-3.75px, 5.25px, 0px);">
+                        <path
+                            d="M24 29.27L232 .22c13.255-1.85 24 7.38 24 20.623V228.62c0 13.24-10.745 25.475-24 27.326L24 285c-13.255 1.85-24-7.382-24-20.623V56.6c0-13.245 10.745-25.48 24-27.33z"
+                            fill="#fff" fill-rule="evenodd"></path>
+                    </svg><svg class="logo-light" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 296 321"
+                        style="transform: translate3d(3.75px, -5.25px, 0px);">
+                        <path
+                            d="M64 65.037l208-29.05c13.255-1.85 24 7.382 24 20.623v207.78c0 13.24-10.745 25.474-24 27.326L64 320.765c-13.255 1.85-24-7.382-24-20.622V92.363c0-13.24 10.745-25.475 24-27.326z"
+                            fill="#fff" fill-rule="evenodd"></path>
+                    </svg></div>
+            </div>
+        </div>
+    </header>
+    <script>
+        "use strict";
+        var i = (function () {
+            for (
+                var e =
+                    "transform webkitTransform mozTransform oTransform msTransform".split(
+                        " "
+                    ),
+                t = void 0,
+                n = 0;
+                void 0 === t;
+
+            )
+                (t =
+                    void 0 !== document.createElement("div").style[e[n]]
+                        ? e[n]
+                        : void 0),
+                    n++;
+            return t;
+        })(),
+            o = !1;
+        (navigator.userAgent.match(/Android/i) ||
+            navigator.userAgent.match(/webOS/i) ||
+            navigator.userAgent.match(/iPhone/i) ||
+            navigator.userAgent.match(/iPad/i) ||
+            navigator.userAgent.match(/iPod/i) ||
+            navigator.userAgent.match(/BlackBerry/i) ||
+            navigator.userAgent.match(/Windows Phone/i)) &&
+            (o = !0);
+        var r = document.querySelector("header"),
+            s = document.querySelector(".logo-dark"),
+            a = document.querySelector(".logo-light"),
+            l = window.innerHeight,
+            c = window.innerWidth;
+        r.addEventListener("mousemove", function (e) {
+            if (!o) {
+                var t = (((e.clientX / c) * 100).toFixed(0) - 50) / 4,
+                    n = (((e.clientY / l) * 100).toFixed(0) - 50) / 4,
+                    r = "translate3d(" + t + "px, " + n + "px, 0)",
+                    u = "translate3d(" + -t + "px, " + -n + "px, 0)";
+                (s.style[i] = r), (a.style[i] = u);
+            }
+        });
+    </script>
+</body>
+
+</html>
