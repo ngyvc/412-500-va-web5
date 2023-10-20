@@ -4,11 +4,22 @@ template [section 1](template-demo-s1.html) [section 2](template-demo-s2.html)
 
 columns and grid dmeo: [grid](grid-demo.html)
 
+flickity slides: [flickity](flickity.html)
+
+position absolute and sticky: [position](position.html) -
+[reference](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+
+database integration: [instruction](https://github.com/ngyvc/582-database-integration)
+
+headless wordpress: [headless](headless.html) -
+[instructions](https://github.com/ngyvc/headless-wordpress)
+
 Upcoming:
 
 [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
 
 [Flickity](https://flickity.metafizzy.co/)
+[Flickity - github backup](https://github.com/metafizzy/flickity)
 
 [simplePARALLAX](https://simpleparallax.com/)
 
