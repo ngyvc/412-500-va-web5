@@ -1,5 +1,9 @@
 # Web 5 - Social Media and Personal Projects
 
+## DEMOS
+
+[Check out the demos and extras!](demos/README.md)
+
 ## IMPORTANT DATES / DEADLINES
 
 - First week prep - **_Aug 23/25_**
