@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <main></main>
+
+    <script>
+        fetch('https://YOURPATH/wp-json/wp/v2/pages/529')
+            .then(response => response.json())
+            .then(data => {
+                console.log(data)
+                document.querySelector('main').innerHTML = data.content.rendered
+
+            })
+    </script>
+</body>
+
+</html>

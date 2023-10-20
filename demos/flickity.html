@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+    <!-- JavaScript -->
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+
+
+</head>
+
+<body>
+    <div class="main-carousel">
+        <div class="carousel-cell"><img src="https://placehold.co/400" alt=""></div>
+        <div class="carousel-cell"><img src="https://placehold.co/400" alt=""></div>
+        <div class="carousel-cell"><img src="https://placehold.co/400" alt=""></div>
+        <div class="carousel-cell"><img src="https://placehold.co/400" alt=""></div>
+        <div class="carousel-cell"><img src="https://placehold.co/400" alt=""></div>
+        <div class="carousel-cell"><img src="https://placehold.co/400" alt=""></div>
+    </div>
+
+
+    <script>
+        var elem = document.querySelector('.main-carousel');
+        var flkty = new Flickity(elem, {
+            // options
+            cellAlign: 'left',
+            contain: true,
+            wrapAround: true,
+        });
+
+        // element argument can be a selector string
+        //   for an individual element
+        var flkty = new Flickity('.main-carousel', {
+            // options
+        });
+    </script>
+</body>
+
+</html>
