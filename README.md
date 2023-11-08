@@ -8,6 +8,12 @@
 
 [View plugins and server setup info here](notes/micromedia-server-setup.md)
 
+## Database
+
+[View repo for database integration](https://github.com/ngyvc/582-database-integration)
+
+[View repo for headless wordpress](https://github.com/ngyvc/headless-wordpress/)
+
 ## Projects
 
 ### Portfolio Project

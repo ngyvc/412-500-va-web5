@@ -4,7 +4,7 @@
 
 template [section 1](template-demo-s1.html) [section 2](template-demo-s2.html)
 
-columns and grid dmeo: [grid](grid-demo.html)
+columns and grid: [grid](grid-demo.html)
 
 flickity slides: [flickity](flickity.html)
 
