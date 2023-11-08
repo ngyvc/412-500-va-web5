@@ -2,7 +2,7 @@
 
 ## Technical Notes (Setup, Demos & Links)
 
-[Check out the demos and extras!](demos/README.md)
+[Open technical notes here](demos/README.md)
 
 ## Projects
 
