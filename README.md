@@ -4,23 +4,55 @@
 
 [Check out the demos and extras!](demos/README.md)
 
+## Setup Info
+
+[View plugins and server setup info here](notes/micromedia-server-setup.md)
+
+## Projects
+
+### Portfolio Project
+
+### Client Project
+
+> [!IMPORTANT]
+> Make sure you find a client **_as soon as possible_**.
+
+### Case Study
+
+Read all about case studies [here](notes/case-study.md).
+
+### Important documents / Client notes
+
+- [Manage a web project](notes/manage-a-web-project.md)
+- [Find a client - Tips](notes/find-potential-clients.md)
+- [Write a formal email](notes/how-to-write-a-formal-email.md)
+- [Questionnaire](notes/webdesign-questionaire.md)
+
+## Assignments
+
+Currently:
+- Personal Portfolio
+- Client Project
+- Case Study
+
 ## IMPORTANT DATES / DEADLINES
 
-- First week prep - **_Aug 23/25_**
-- 3 Projects Material - **_Aug 30/ Sept 1_**
-- Social Media Posts - **_Sept 6/ Sept 8_**
-- Templates - **_Sept 13/15_**
-- Find Client - **_Sept 20/22_**
-- Wireframe & Mood board - **_Sept 27/29_**
-- Client Template - **_Oct 4/6_**
-- Client Wireframe & Mood board - **_Oct 13/18_**
-- Database Planning & Integration - **_Oct 20/25_**
-- Client Feedback - **_Oct 27 / Nov 1_**
-- Database Planning & Integration - **_Nov 3/8_**
-- Case Study - **_Nov 10/15_**
-- Case Study Final - **_Nov 17/22_**
-- Social Media Presentations - **_Nov 24/29_**
-- Final Presentations - **_Dec 1/6_**
+- ~~First week prep - **_Aug 23/25_**~~
+- ~~3 Projects Material - **_Aug 30/ Sept 1_**~~
+- ~~Social Media Posts - **_Sept 6/ Sept 8_**~~
+- ~~Templates - **_Sept 13/15_**~~
+- ~~Find Client - **_Sept 20/22_**~~
+- ~~Wireframe & Mood board - **_Sept 27/29_**~~
+- ~~Client Template - **_Oct 4/6_**~~
+- ~~Client Wireframe & Mood board - **_Oct 13/18_**~~
+- ~~Database Planning & Integration - **_Oct 20/25_**~~
+- ~~Client Feedback - **_Oct 27 / Nov 1_**~~
+- ~~Database Planning & Integration - **_Nov 3/8_**~~
+- Case Study Intro - **_Nov 8/10_**
+- Case Study Working - **_Nov 15/17_**
+- Case Study Final - **_Nov 22/24_**
+- Final Presentations - **_Nov 29/Dec 1_**
+- Last Class (Maybe another photoshoot?)- **_Dec 6_**
 
 ## Projects Breakdowns
 
@@ -33,91 +65,13 @@
 - Project 4 - Case Study
   > Week 12-15
 
-## Setup Info
-
-[View plugins and server setup info here](notes/micromedia-server-setup.md)
-
-## Portfolio Project
-
-## Client Project
-
-> [!IMPORTANT]
-> Make sure you find a client **_as soon as possible_**.
-
-### Important documents / Client notes
-
-- [Manage a web project](notes/manage-a-web-project.md)
-- [Find a client - Tips](notes/find-potential-clients.md)
-- [Write a formal email](notes/how-to-write-a-formal-email.md)
-- [Questionnaire](notes/webdesign-questionaire.md)
-
-## Case Study
-
-Case studies are an excellent tool for designers to show the depth of engagement in the design process, and for potential employers / universities to better appreciate the thinking that has gone into a design.
-
-Here is a short example from Mihaela: [CSU child logo](http://www.emiha.com/csu-childrenLogo.html)
-
-And here are some excellent resources on case studies:
-
-- [case study club](https://www.casestudy.club/journal/ux-designer-portfolio)
-- [from Semplice](https://www.semplice.com/how-to-write-case-studies-for-your-portfolio)
-- [CreativeBloq examples](https://www.creativebloq.com/advice/write-engaging-case-studies-for-your-portfolio)
-- [DesignerUp](https://designerup.co/blog/10-exceptional-product-design-portfolios-with-case-study-breakdowns/)
-- [Fantasy.co](https://fantasy.co/)
-
-### Case Study evaluation
-
-Your case studies should including the following:
-
-- project title
-- intro (design problem, project goal, challenges)
-- process (how you overcame the challenges ...or not)
-- outcome (client benefits & feedback)
-- images with captions?
-- plus:
-  - infographics?
-  - animations (screen captures?)
-  - videos?
-
-[elements of case study](notes/elements-of-a-case-study.md)
-
-You will create:
-
-- a web case study You can choose from:
-  - a web project you have already completed
-  - the client web project from web 5
-  - a new web project or something done outside of class
-
-### Web case study suggested process
-
-- select project, brainstorm all ideas / thoughts / feelings & info
-- define your narrative, choose a an image (or 2) and write a sentence for the:
-  - beginning (problem or challenge)
-  - middle (process or how you solved the problem)
-  - denouement (or the ultimate outcome, ideally with data or feedback)
-- publish your case study to get feedback
-- make improvements based on feedback
-
-[Buzzworthy](https://buzzworthystudio.com/work.html)
-[Scitech by Humaan](https://humaan.com/case-study/scitech/)
-[MAD for Circula](https://www.mad.ac/work/circula/)
-
-### some selected case studies
-
-[Dapo Oni](https://dapo.ooo/Lucid-Dreaming-Study)
-[full analysis](https://medium.com/@dapooni/lucid-dreaming-connections-to-mindfulness-creativity-1914e939a682)
-[Cody Reppert](https://www.codyreppert.com/seedly)
-[Bettina Chou](https://bettinachou.com/)
-
-## Assignments
-
-### Week 1 - Gather and prepare materials for showcase
+<!-- ### Week 1 - Gather and prepare materials for showcase
 
 For the first assignment, look through your projects and find **three** projects that you are proud to promote. Prepare materials from those projects including any preparation materials like sketches, wireframes, drafts, etc (anything related to the project that can add value). Write a brief description to the projects for presentation in class.
 
 ### Week 1 - Find a client
 
-Start looking for a client for the client project.
+Start looking for a client for the client project. -->
 
 <!-- 
 
@@ -132,8 +86,6 @@ Do not overcomplicate things for your landing page. Keep it simple and responsiv
 ### Week 3 - Portfolio template structure and ideas
 
 For next week, bring ideas for your portfolio template: how do you want one of your portfolio template pages to look? Bring material and ideas for structuring a template in class. -->
-
-## In class Demo
 
 <!-- ### Week 1 - Anatomy of a website
 
