@@ -46,9 +46,9 @@ Currently:
 - ~~Database Planning & Integration - **_Nov 3/8_**~~
 - Case Study Intro - **_Nov 8/10_**
 - Case Study Working - **_Nov 15/17_**
-- Case Study Final - **_Nov 22/24_**
-- Final Presentations - **_Nov 29/Dec 1_**
-- Last Class (Maybe another photoshoot?)- **_Dec 6_**
+- Case Study Final - **_Nov 24/29_**
+- Final Presentations - **_Dec 1/6_**
+<!-- - Last Class (Maybe another photoshoot?)- **_Dec 6_** -->
 
 ## Projects Breakdowns
 
