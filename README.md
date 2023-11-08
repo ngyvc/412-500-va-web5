@@ -98,9 +98,9 @@ You will create:
 - publish your case study to get feedback
 - make improvements based on feedback
 
-[MAD for Circula](https://www.mad.ac/work/circula/)
-[Snooze by Buzzworthy](http://buzzworthystudio.com/project-snooze)
+[Buzzworthy](https://buzzworthystudio.com/work.html)
 [Scitech by Humaan](https://humaan.com/case-study/scitech/)
+[MAD for Circula](https://www.mad.ac/work/circula/)
 
 ### some selected case studies
 
