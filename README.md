@@ -79,7 +79,7 @@ Your case studies should including the following:
   - animations (screen captures?)
   - videos?
 
-[elements of case study](notes/elements-of-a-case-study.MD)
+[elements of case study](notes/elements-of-a-case-study.md)
 
 You will create:
 
