@@ -2,7 +2,7 @@
 
 ## Setup Info
 
-[View plugins and server setup info here](../notes/micromedia-server-setup.md)
+[View plugins and server setup info here](micromedia-server-setup.md)
 
 ## Database repos
 
