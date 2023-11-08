@@ -15,7 +15,7 @@
 
 ### Case Study
 
-Read all about case studies [here](notes/case-study.md).
+[Read all about case studies here](notes/case-study.md).
 
 ### Important documents / Client notes
 
