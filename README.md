@@ -1,18 +1,8 @@
 # Web 5 - Social Media and Personal Projects
 
-## DEMOS
+## Technical Notes (Setup, Demos & Links)
 
 [Check out the demos and extras!](demos/README.md)
-
-## Setup Info
-
-[View plugins and server setup info here](notes/micromedia-server-setup.md)
-
-## Database
-
-[View repo for database integration](https://github.com/ngyvc/582-database-integration)
-
-[View repo for headless wordpress](https://github.com/ngyvc/headless-wordpress/)
 
 ## Projects
 

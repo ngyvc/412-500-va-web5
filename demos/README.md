@@ -1,5 +1,15 @@
 # Demos
 
+## Setup Info
+
+[View plugins and server setup info here](notes/micromedia-server-setup.md)
+
+## Database repos
+
+[View repo for database integration](https://github.com/ngyvc/582-database-integration)
+
+[View repo for headless wordpress](https://github.com/ngyvc/headless-wordpress/)
+
 ## Inclass Demos
 
 template [section 1](template-demo-s1.html) [section 2](template-demo-s2.html)
