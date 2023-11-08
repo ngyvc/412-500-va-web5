@@ -53,7 +53,6 @@
 
 ## Case Study
 
-<!--
 Case studies are an excellent tool for designers to show the depth of engagement in the design process, and for potential employers / universities to better appreciate the thinking that has gone into a design.
 
 Here is a short example from Mihaela: [CSU child logo](http://www.emiha.com/csu-childrenLogo.html)
@@ -108,7 +107,7 @@ You will create:
 [Dapo Oni](https://dapo.ooo/Lucid-Dreaming-Study)
 [full analysis](https://medium.com/@dapooni/lucid-dreaming-connections-to-mindfulness-creativity-1914e939a682)
 [Cody Reppert](https://www.codyreppert.com/seedly)
-[Bettina Chou](https://bettinachou.com/) -->
+[Bettina Chou](https://bettinachou.com/)
 
 ## Assignments
 
