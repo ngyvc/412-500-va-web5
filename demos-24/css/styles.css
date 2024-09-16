@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+ul,
+ol {
+    list-style: none;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(50px, 1fr));
+}
+
+:root {
+    --primary-color: rgb(245, 197, 52);
+    --secondary-color: rgb(97, 10, 97);
+    --xs-margin: 10vw;
+}
+
+body {
+    font-family: 'Playwrite CU', sans-serif;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+header {
+    color: var(--primary-color);
+    background-color: var(--secondary-color);
+    padding: 0 var(--xs-margin);
+}
+
+main {
+    padding: var(--xs-margin);
+}
