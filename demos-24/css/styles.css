@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
 * {
     margin: 0;
@@ -9,6 +10,14 @@
 img {
     max-width: 100%;
     height: auto;
+}
+
+p {
+    padding: 0 .5rem;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 275;
+    font-style: normal;
 }
 
 ul,
@@ -35,21 +44,88 @@ header {
     color: var(--primary-color);
     background-color: var(--secondary-color);
     padding: 0 var(--xs-margin);
-    display: grid;
-    grid-template-columns: 1fr auto;
-    align-items: center;
 }
 
-header nav ul {
-    display: grid;
-    gap: 1rem;
-    grid-template-columns: 1fr 1fr 1fr;
+header nav.mobile {}
 
+header nav.mobile .hamburger {
+    display: block;
+    cursor: pointer;
 }
 
-header nav ul li a {
-    color: var(--primary-color);
+header nav.mobile .hamburger.active span:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
 }
+
+header nav.mobile .hamburger.active span:nth-child(2) {
+    display: none;
+}
+
+header nav.mobile .hamburger.active span:nth-child(3) {
+    transform: rotate(-45deg) translate(7px, -7px);
+}
+
+header nav.mobile .hamburger span {
+    display: block;
+    width: 30px;
+    height: 5px;
+    background-color: var(--primary-color);
+    margin: 5px;
+    border-radius: 2.5px;
+    /* transition: 0.4s; */
+}
+
+header nav.mobile ul {
+    display: none;
+}
+
+header nav.mobile ul.show {
+    display: initial;
+}
+
+header nav.desktop {
+    display: none;
+}
+
+@media screen and (min-width: 768px) {
+    header {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        align-items: center;
+    }
+
+    header nav.mobile {
+        display: none;
+    }
+
+    header nav.desktop {
+        display: block;
+    }
+
+    header nav ul {
+        /* display: grid;
+        gap: 0;
+        grid-template-columns: 1fr 1fr 1fr; */
+        display: inline-block;
+    }
+
+    header nav ul li {
+        display: inline-block;
+    }
+
+    header nav ul li a {
+        color: var(--primary-color);
+        text-decoration: none;
+        padding: 0.5rem;
+    }
+
+    header nav ul li a:hover,
+    header nav ul li a.active {
+        background-color: var(--primary-color);
+        color: var(--secondary-color);
+    }
+}
+
 
 main {
     padding: var(--xs-margin);
