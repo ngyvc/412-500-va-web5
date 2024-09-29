@@ -38,6 +38,8 @@ Currently:
 
 ## IMPORTANT DATES / DEADLINES
 
+[Vanier Calendar](https://www.vaniercollege.qc.ca/calendar)
+
 - ~~Intro - **_Aug 26_**~~
 - ~~MONDAY HOLIDAY Labour Day- **_Sept 2_**~~
 - ~~3 Projects Material - **_Sept 9_**~~
