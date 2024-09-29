@@ -1,8 +1,12 @@
 # Web 5 - Social Media and Personal Projects
 
+## New 2024 demos
+
+[Demos folder](demos/)
+
 ## Technical Notes (Setup, Demos & Links)
 
-[Open technical notes here](demos/README.md)
+[Open old technical notes here](demos/README.md)
 
 ## Projects
 
@@ -27,13 +31,32 @@
 ## Assignments
 
 Currently:
+
 - Personal Portfolio
 - Client Project
 - Case Study
 
 ## IMPORTANT DATES / DEADLINES
 
-- ~~First week prep - **_Aug 23/25_**~~
+- Intro - **_Aug 26_**
+- MONDAY HOLIDAY Labour Day- **_Sept 2_**
+- 3 Projects Material - **_Sept 9_**
+- Find Client - **_Sept 9_**
+- Templates - **_Sept 16_**
+- Wireframe & Mood board - **_Sept 23_**
+- Client Template - **_Sept 30_**
+- Client Wireframe & Mood board - **_Oct 7_**
+- MONDAY HOLIDAY Thanksgiving - **_Sept 14_**
+- Database Planning & Integration - **_Oct 21_**
+- Client Feedback MAYBE PHOTOSHOOT - **_Oct 28_**
+- Database Planning & Integration - **_Nov 4_**
+- Case Study Intro - **_Nov 11_**
+- Case Study Working - **_Nov 18_**
+- Case Study Final - **_Nov 25_**
+- Social Media Posts - **_Nov 25_**
+- Final Presentations - **_Dec 2_**
+
+<!-- - ~~First week prep - **_Aug 23/25_**~~
 - ~~3 Projects Material - **_Aug 30/ Sept 1_**~~
 - ~~Social Media Posts - **_Sept 6/ Sept 8_**~~
 - ~~Templates - **_Sept 13/15_**~~
@@ -47,19 +70,19 @@ Currently:
 - Case Study Intro - **_Nov 8/10_**
 - Case Study Working - **_Nov 15/17_**
 - Case Study Final - **_Nov 24/29_**
-- Final Presentations - **_Dec 1/6_**
+- Final Presentations - **_Dec 1/6_** -->
 <!-- - Last Class (Maybe another photoshoot?)- **_Dec 6_** -->
 
 ## Projects Breakdowns
 
-- Project 1 - Social Media
-  > Week 1-15
 - Project 2 - Personal Web Portfolio
-  > Week 2-12
+  > Week 1-12
 - Project 3 - Client Web Project
-  > Week 3-13
+  > Week 1-13
 - Project 4 - Case Study
   > Week 12-15
+- Project 1 - Social Media
+  > Week 13-15
 
 <!-- ### Week 1 - Gather and prepare materials for showcase
 
