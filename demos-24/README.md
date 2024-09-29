@@ -44,11 +44,11 @@ Notes
 
 ## column
 
-Notes
+[columns](https://developer.mozilla.org/en-US/docs/Web/CSS/columns)
 
 ## grid
 
-Notes
+[Auto-fit Vs Auto-fill](https://defensivecss.dev/tip/auto-fit-fill/)
 
 ## index
 
