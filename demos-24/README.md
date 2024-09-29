@@ -4,6 +4,8 @@
 
 Notes
 
+[Quick Start](https://react.dev/learn)
+
 [Add React to an Existing Project](https://react.dev/learn/add-react-to-an-existing-project#using-react-for-a-part-of-your-existing-page)
 
 [Try React locally](https://react.dev/learn/installation#try-react-locally)
