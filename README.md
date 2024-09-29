@@ -38,12 +38,12 @@ Currently:
 
 ## IMPORTANT DATES / DEADLINES
 
-- Intro - **_Aug 26_**
-- MONDAY HOLIDAY Labour Day- **_Sept 2_**
-- 3 Projects Material - **_Sept 9_**
-- Find Client - **_Sept 9_**
-- Templates - **_Sept 16_**
-- Wireframe & Mood board - **_Sept 23_**
+- ~~Intro - **_Aug 26_**~~
+- ~~MONDAY HOLIDAY Labour Day- **_Sept 2_**~~
+- ~~3 Projects Material - **_Sept 9_**~~
+- ~~Find Client - **_Sept 9_**~~
+- ~~Templates - **_Sept 16_**~~
+- ~~Wireframe & Mood board - **_Sept 23_**~~
 - Client Template - **_Sept 30_**
 - Client Wireframe & Mood board - **_Oct 7_**
 - MONDAY HOLIDAY Thanksgiving - **_Sept 14_**
