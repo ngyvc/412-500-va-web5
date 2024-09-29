@@ -1,9 +1,17 @@
 # 2024 Demos
 
-list of demos so far:
+## react
 
-index - template
+Notes
 
-grid - grid demo
+## column
 
-column - column demo
+Notes
+
+## grid
+
+Notes
+
+## index
+
+Notes
