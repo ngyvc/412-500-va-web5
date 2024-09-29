@@ -2,7 +2,7 @@
 
 ## New 2024 demos
 
-[Demos folder](demos/)
+[Demos folder](demos-24/)
 
 ## Technical Notes (Setup, Demos & Links)
 
