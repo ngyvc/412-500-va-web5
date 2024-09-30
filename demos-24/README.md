@@ -46,22 +46,28 @@ Notes
 
 ```
 let projects = [
-        { id: 1, name: 'Project 1', description: 'Description 1', images: [
-            { id: 1, src: 'https://via.placeholder.com/150' },
-            { id: 2, src: 'https://via.placeholder.com/150' },
-            { id: 3, src: 'https://via.placeholder.com/150' },
-        ] },
-        { id: 2, name: 'Project 2', description: 'Description 2', images: [
-            { id: 1, src: 'https://via.placeholder.com/150' },
-            { id: 2, src: 'https://via.placeholder.com/150' },
-            { id: 3, src: 'https://via.placeholder.com/150' },
-        ] },
-        { id: 3, name: 'Project 3', description: 'Description 3', images: [
-            { id: 1, src: 'https://via.placeholder.com/150' },
-            { id: 2, src: 'https://via.placeholder.com/150' },
-            { id: 3, src: 'https://via.placeholder.com/150' },
-        ] },
-    ]
+    {
+        id: 1, name: 'Project 1', description: 'Description 1', images: [
+            { id: 1, src: 'https://placehold.co/600x400?text=1-1' },
+            { id: 2, src: 'https://placehold.co/600x400?text=1-2' },
+            { id: 3, src: 'https://placehold.co/600x400?text=1-3' },
+        ]
+    },
+    {
+        id: 2, name: 'Project 2', description: 'Description 2', images: [
+            { id: 1, src: 'https://placehold.co/600x400?text=2-1' },
+            { id: 2, src: 'https://placehold.co/600x400?text=2-2' },
+            { id: 3, src: 'https://placehold.co/600x400?text=2-3' },
+        ]
+    },
+    {
+        id: 3, name: 'Project 3', description: 'Description 3', images: [
+            { id: 1, src: 'https://placehold.co/600x400?text=3-1' },
+            { id: 2, src: 'https://placehold.co/600x400?text=3-2' },
+            { id: 3, src: 'https://placehold.co/600x400?text=3-3' },
+        ]
+    },
+]
 ```
 
 ```
