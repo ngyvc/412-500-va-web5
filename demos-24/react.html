@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script async src="https://ga.jspm.io/npm:es-module-shims@1.7.0/dist/es-module-shims.js"></script>
+    <script type="importmap">
+            {
+              "imports": {
+                "react": "https://esm.sh/react?dev",
+                "react-dom/client": "https://esm.sh/react-dom/client?dev"
+              }
+            }
+            </script>
+    <script type="text/babel" data-type="module">
+        import React, { StrictMode } from 'react';
+        import { createRoot } from 'react-dom/client';
+        import { useState } from 'react';
+
+        let projects = [
+            {
+                id: 1, name: 'Project 1', enable: true, description: 'Description 1', images: [
+                    { id: 1, src: 'https://placehold.co/600x400?text=1-1' },
+                    { id: 2, src: 'https://placehold.co/600x400?text=1-2' },
+                    { id: 3, src: 'https://placehold.co/600x400?text=1-3' },
+                ]
+            },
+            {
+                id: 2, name: 'Project 2', enable: false, description: 'Description 2', images: [
+                    { id: 1, src: 'https://placehold.co/600x400?text=2-1' },
+                    { id: 2, src: 'https://placehold.co/600x400?text=2-2' },
+                    { id: 3, src: 'https://placehold.co/600x400?text=2-3' },
+                ]
+            },
+            {
+                id: 3, name: 'Project 3', enable: true, description: 'Description 3', images: [
+                    { id: 1, src: 'https://placehold.co/600x400?text=3-1' },
+                    { id: 2, src: 'https://placehold.co/600x400?text=3-2' },
+                    { id: 3, src: 'https://placehold.co/600x400?text=3-3' },
+                ]
+            },
+        ]
+
+        const BigImage = ({ src }) => <img class="big" src={src} alt="Big Image" />
+
+        const Project = ({ project }) => {
+            const [bigImage, setBigImage] = useState(project.images[0].src);
+
+            return <div>
+                <h2>{project.name}</h2>
+                <p>{project.enable ? "project active" : "project inactive"}</p>
+
+                <p>{project.description}</p>
+                <BigImage src={bigImage} />
+                <div>
+                    {project.images.map(image => (
+                        <img class="small" key={image.id} src={image.src} alt={project.name}
+                            onClick={() => setBigImage(image.src)} />
+                    ))}
+                </div>
+            </div>
+        }
+
+        let App = function App() {
+            return <>
+                {projects.map(project => (
+                    <Project key={project.id} project={project} />
+                ))}
+            </>;
+        }
+
+        const root = createRoot(document.getElementById('root'));
+        root.render(
+            <StrictMode>
+                <App />
+            </StrictMode>
+        );
+    </script>
+    <style>
+        .small {
+            max-width: 100px;
+        }
+    </style>
+    <style>
+        /* OPTIONAL */
+        #root {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1rem;
+        }
+
+        #root.red {
+            color: crimson;
+            background-color: lightcoral;
+        }
+
+        .big {
+            max-width: 300px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main id="root"></main>
+</body>
+
+</html>
