@@ -44,6 +44,26 @@ Notes
     </script>
 ```
 
+```
+let projects = [
+        { id: 1, name: 'Project 1', description: 'Description 1', images: [
+            { id: 1, src: 'https://via.placeholder.com/150' },
+            { id: 2, src: 'https://via.placeholder.com/150' },
+            { id: 3, src: 'https://via.placeholder.com/150' },
+        ] },
+        { id: 2, name: 'Project 2', description: 'Description 2', images: [
+            { id: 1, src: 'https://via.placeholder.com/150' },
+            { id: 2, src: 'https://via.placeholder.com/150' },
+            { id: 3, src: 'https://via.placeholder.com/150' },
+        ] },
+        { id: 3, name: 'Project 3', description: 'Description 3', images: [
+            { id: 1, src: 'https://via.placeholder.com/150' },
+            { id: 2, src: 'https://via.placeholder.com/150' },
+            { id: 3, src: 'https://via.placeholder.com/150' },
+        ] },
+    ]
+```
+
 ## column
 
 [columns](https://developer.mozilla.org/en-US/docs/Web/CSS/columns)
