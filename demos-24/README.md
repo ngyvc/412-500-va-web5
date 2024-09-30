@@ -64,6 +64,20 @@ let projects = [
     ]
 ```
 
+```
+    const Project = ({ project }) => {
+        return <div>
+            <h2>{project.name}</h2>
+            <p>{project.description}</p>
+            <div>
+                {project.images.map(image => (
+                    <img key={image.id} src={image.src} alt={project.name} />
+                ))}
+            </div>
+        </div>
+    }
+```
+
 ## column
 
 [columns](https://developer.mozilla.org/en-US/docs/Web/CSS/columns)
