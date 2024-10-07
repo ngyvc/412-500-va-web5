@@ -14,7 +14,7 @@
 
 [view demo file](/demos-24/headless.html)
 
-Change permalinks setting if API is not visible, go to Dashboard > Settings > Permalinks and set it to `Post Name` (would work, or try other settings and check the path below).
+Change permalinks setting if API is not visible, go to `Dashboard > Settings > Permalinks` and set it to `Post Name` (would work, or try other settings and check the path below).
 
 Path to wordpress API: `{headless-wordpress-folder}/wp-json/wp/v2/{pages/posts/etc}`
 Example: `https://ngy.582mi.com/headless/wp-json/wp/v2/posts`
