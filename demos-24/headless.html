@@ -42,6 +42,7 @@
             }, [projects]);
             return <>
                 {error ? <div>{error.message}</div> : null}
+                {loading ? <div>Loading...</div> : null}
                 {projects ? projects.map((post, index) => <Post key={index} post={post} />) : null}
             </>
         }
