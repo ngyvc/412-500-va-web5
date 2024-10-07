@@ -1,5 +1,19 @@
 # 2024 Demos
 
+## object-fit
+
+[object-fit on mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
+
+## PhotoSwipe
+
+[PhotoSwipe](https://photoswipe.com/)
+
+## headless wordpress
+
+[Wordpress API](https://developer.wordpress.org/rest-api/reference/)
+
+[view demo file](/demos-24/headless.html)
+
 ## react
 
 Notes
