@@ -14,6 +14,13 @@
 
 [view demo file](/demos-24/headless.html)
 
+Path to wordpress API: `{headless-wordpress-folder}/wp-json/wp/v2/{pages/posts/etc}`
+Example: `https://ngy.582mi.com/headless/wp-json/wp/v2/posts`
+
+## stripe payment processing
+
+[Stripe API](https://docs.stripe.com/api)
+
 ## react
 
 Notes
