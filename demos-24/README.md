@@ -6,7 +6,9 @@
 
 ## iykyk
 
-`AIzaSyAOKsQNZ3FsAta_dB9UhkrUv93M9_Xc3jA`
+`redacted`
+
+so Google found the key being posted publicly, so ask Bruce or I for it instead.
 
 ***make sure you are on the live server when checking if it works***
 
