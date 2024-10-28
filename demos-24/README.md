@@ -1,5 +1,19 @@
 # 2024 Demos
 
+## Leaflet js
+
+[Leaflet.js an open-source JavaScript library for mobile-friendly interactive map](<https://leafletjs.com/>)
+
+## iykyk
+
+`AIzaSyAOKsQNZ3FsAta_dB9UhkrUv93M9_Xc3jA`
+
+***make sure you are on the live server when checking if it works***
+
+## maps api
+
+<https://developers.google.com/maps/documentation/javascript/add-google-map-wc-tut>
+
 ## object-fit
 
 [object-fit on mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
